@@ -49,12 +49,3 @@ function App() {
 }
 
 export default App;
-
-/*
-Redux 한 줄 요약
-
-action : reducer와 소통하는 매개체. 상태의 변화가 필요할 때 발생시킨다.
-dispatch : action을 reducer로 전달해주는 매개체
-reducer : 상태 변화를 일으키는 함수로, state와 action 인자를 받아서 새로운 상태 반환
-
-*/
